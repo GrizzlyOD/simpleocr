@@ -1,0 +1,2 @@
+# simpleocr
+tesseract-OCR
